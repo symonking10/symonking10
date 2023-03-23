@@ -1,8 +1,8 @@
 
-## 🇧🇷 Olá! Eu sou Samuel Rodrigues  
+## 🇺🇸 Hi! I'm Samuel Rodrigues  
 ## 🇧🇷 Olá, Eu sou o Samuel Rodrigues
 
-### 🇧🇷 Atualmente estou cursando Sistemas de Informação na Uninassau e pretendo trabalhar como desenvolvedor Full Stack.
+### 🇺🇸 I'm currently studying Information Systems at Uninassau and intend to work as a Full Stack developer.
 
 ### 🇧🇷 Atualmente estou cursando Sistemas de Informação na Uninassau e planejo trabalhar como Programador Full Stack.
 
@@ -11,3 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/symonrodriguess_/)
 
 
+### 🇺🇸 My Skills
+### 🇧🇷 Minhas Habilidades:
+
+![Java](https://img.shields.io/badge/Java-8B2635?style=for-the-badge&logo=openjdk&logoColor=white) 
